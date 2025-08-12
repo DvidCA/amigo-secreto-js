@@ -4,11 +4,7 @@
 
 ## Challenge Amigo Secreto :bangbang:
 
-Este projeto foi desenvolvido como parte do Challenge Amigo Secreto da 1ª fase da Formação Iniciante em Programação, oferecida pela Alura em parceria com a Oracle Next Education (ONE).
-
-Cujo objetivo é criar uma aplicação em JavaScript que permita:
-Adicionar nomes de participantes.
-Realizar o sorteio aleatório para definir quem será o amigo secreto de quem.
+Este projeto foi desenvolvido como parte do Challenge Amigo Secreto da 1ª fase da Formação Iniciante em Programação, oferecida pela Alura em parceria com a Oracle Next Education (ONE). O objetivo era criar uma aplicação em JavaScript que permitisse adicionar nomes de participantes. E realizar o sorteio aleatório para definir quem será o amigo secreto de quem.
 
 ---
 
