@@ -7,8 +7,12 @@
 Este projeto foi desenvolvido como parte do Challenge Amigo Secreto da 1ª fase da Formação Iniciante em Programação, oferecida pela Alura em parceria com a Oracle Next Education (ONE). O objetivo era criar uma aplicação em JavaScript que permitisse adicionar nomes de participantes. E realizar o sorteio aleatório para definir quem será o amigo secreto de quem.
 
 ---
+ ## Dificuldades Encontradas<br/>
+Durante o desenvolvimento, a principal dificuldade foi a implementação do botão para limpar o resultado do sorteio. Essa barreira se deu por dois fatores:  
+:right_anger_bubble:HTML: Definir a melhor forma de posicionar o botão dentro da estrutura da página, mantendo a organização visual e sem quebrar o layout já existente.  
+:right_anger_bubble:JavaScript: Criar a função responsável por limpar o conteúdo exibido na lista de resultados, garantindo que não interferisse na lógica principal do sorteio.  
 
-🚀 
+---
 ## Funcionalidades
 
 ✅ **Adicionar nomes**: Insira o nome dos participantes na lista.  
@@ -20,8 +24,8 @@ Este projeto foi desenvolvido como parte do Challenge Amigo Secreto da 1ª fase 
 
 ## Como usar
 
-1️⃣: Digite o nome de um amigo no campo de entrada e clique em **Adicionar**.  
-2️⃣: A lista de amigos adicionados aparecerá abaixo.  
+1️⃣ Digite o nome de um amigo no campo de entrada e clique em **Adicionar**.  
+2️⃣ A lista de amigos adicionados aparecerá abaixo.  
 3️⃣ Clique em **Sortear amigo** para selecionar aleatoriamente um amigo secreto.  
 4️⃣ O resultado aparecerá destacado abaixo dos botões.  
 5️⃣ Use o botão **Limpar resultado** para apagar o resultado do sorteio e realizar um novo.  
@@ -41,7 +45,6 @@ Este projeto foi desenvolvido como parte do Challenge Amigo Secreto da 1ª fase 
 <img width="41" height="41" alt="image" src="https://github.com/user-attachments/assets/d1ba547c-2402-4952-8ce9-afcd80cf8700" /> JavaScript (ES6+)
 
 ---
-📚 
 ## Aprendizados
 :notebook: Durante o desenvolvimento deste projeto, foram trabalhados conceitos fundamentais de programação, como:  
 :heavy_check_mark:Manipulação do DOM com JavaScript  
