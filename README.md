@@ -29,7 +29,13 @@ Realizar o sorteio aleatório para definir quem será o amigo secreto de quem.
 5. Use o botão **Limpar resultado** para apagar o resultado do sorteio e realizar um novo.
 
 ---
+## Capturas de tela
+<img width="480" height="258" alt="image" src="https://github.com/user-attachments/assets/0bd1aa44-4df8-4928-8e2d-e690626c816b" />
+                                                                                                                                  
+<img width="480" height="258" alt="image" src="https://github.com/user-attachments/assets/6132c345-df69-43e5-b87d-14582bf42b76" />
 
+
+---
 ## Tecnologias usadas
 
 <img width="41" height="41" alt="image" src="https://github.com/user-attachments/assets/1b111b20-a336-496f-82bc-a7f490008d94" /> HTML5
